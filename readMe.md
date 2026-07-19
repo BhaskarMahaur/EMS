@@ -194,7 +194,7 @@ http://localhost:5173
 ## Dashboard
 
 ```
-docs/screenshots/dashboard.png
+demoSS/dashboard.png
 ```
 
 ---
@@ -202,7 +202,7 @@ docs/screenshots/dashboard.png
 ## Employee Management
 
 ```
-docs/screenshots/employees.png
+demoSS/employees.png
 ```
 
 ---
@@ -210,7 +210,7 @@ docs/screenshots/employees.png
 ## Add Employee
 
 ```
-docs/screenshots/add-employee.png
+demoSS/add-employee.png
 ```
 
 ---
@@ -218,7 +218,7 @@ docs/screenshots/add-employee.png
 ## Organization Hierarchy
 
 ```
-docs/screenshots/organization-tree.png
+demoSS/organization-tree.png
 ```
 
 ---
